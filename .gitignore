@@ -1,0 +1,59 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment directories
+venv/
+.venv/
+env/
+.env/
+ENV/
+
+# Python environment files
+Pipfile
+Pipfile.lock
+poetry.lock
+*.pyenv
+*.python-version
+
+# Distribution / build folders
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Logs and temporary files
+*.log
+*.out
+*.err
+*.pid
+*.gz
+
+# Coverage reports
+.coverage
+.coverage.*
+.cache/
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+
+# Test outputs
+.tox/
+.pytest_cache/
+junit.xml
+
+# Configuration files (if using Jupyter or IPython)
+.ipynb_checkpoints/
+.ipython/
+
+# IDE / editor directories
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# OS-specific files
+.DS_Store
+Thumbs.db
